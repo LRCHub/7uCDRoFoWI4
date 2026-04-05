@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "base_track": "Diver",
+  "base_artist": "NICO Touches the Walls",
+  "createdAt": "2026-04-05T04:23:13.867420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm a Pearl Diver",
+      "artist": "The Microphones",
+      "has_synced": false,
+      "path": "select/01_I'm_a_Pearl_Diver_The_Microphones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Deep Sea Diver",
+      "artist": "Angel Haze",
+      "has_synced": true,
+      "path": "select/02_Deep_Sea_Diver_Angel_Haze.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diver",
+      "artist": "AlunaGeorge",
+      "has_synced": true,
+      "path": "select/03_Diver_AlunaGeorge.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sky Diver",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/04_Sky_Diver_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pearl Diver",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/05_Pearl_Diver_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Deep Sea Diver",
+      "artist": "Grizzly Bear",
+      "has_synced": true,
+      "path": "select/06_Deep_Sea_Diver_Grizzly_Bear.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Deep Sea Diver",
+      "artist": "Grizzly Bear",
+      "has_synced": true,
+      "path": "select/07_Deep_Sea_Diver_Grizzly_Bear.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Deep Sea Diver (Castanets Remix)",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/08_Deep_Sea_Diver_(Castanets_Remix)_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Deep Sea Diver (Castanets)",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/09_Deep_Sea_Diver_(Castanets)_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Deep Sea Diver (The Bomarr Monk Remix)",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/10_Deep_Sea_Diver_(The_Bomarr_Monk_Remix)_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Deep Sea Diver (The Bomarr Monk)",
+      "artist": "Grizzly Bear",
+      "has_synced": false,
+      "path": "select/11_Deep_Sea_Diver_(The_Bomarr_Monk)_Grizzly_Bear.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Soul Diver",
+      "artist": "Thank You Scientist",
+      "has_synced": true,
+      "path": "select/12_Soul_Diver_Thank_You_Scientist.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Diver",
+      "artist": "Gravenhurst",
+      "has_synced": true,
+      "path": "select/13_The_Diver_Gravenhurst.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Diver",
+      "artist": "Gravenhurst",
+      "has_synced": true,
+      "path": "select/14_Diver_Gravenhurst.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Holy Diver",
+      "artist": "Dio",
+      "has_synced": true,
+      "path": "select/15_Holy_Diver_Dio.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stella Was a Diver and She Was Always Down",
+      "artist": "Interpol",
+      "has_synced": true,
+      "path": "select/16_Stella_Was_a_Diver_and_She_Was_Always_Down_Interpol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Diver",
+      "artist": "NICO Touches the Walls",
+      "has_synced": false,
+      "path": "select/pl_01_Diver_NICO_Touches_the_Walls.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Diver",
+      "artist": "NICO Touches the Walls",
+      "has_synced": false,
+      "path": "select/localdb_01_Diver_NICO_Touches_the_Walls.txt",
+      "repo_name": "-vlnpVng5h8"
+    }
+  ]
+}
